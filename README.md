@@ -13,8 +13,12 @@ An augmented reality (AR)-based educational application developed to support chi
 - Created scan-enabled AR video content for educational learning.
 
 ## Project Deliverables
-- Android application (APK)
-- Interactive animal flipbook (PDF)
+
+- **Android Application (APK):** [Download AR Life Cycle App](https://drive.google.com/file/d/10ZKWNgEmttqUlCc1PlKktJ9AhfciZiM1/view?usp=sharing)
+- **Animal Flipbook (PDF):** [View Animal Flipbook](https://drive.google.com/file/d/1KEG4MyOwj0m9K9x7IVAaDlvlRQz1ccnN/view?usp=sharing)
+
+## Project Type
+Diploma Final Year Project
 
 ## Technologies Used
 To be updated with the actual tools and technologies used in the project.
