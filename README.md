@@ -1,53 +1,68 @@
 
+<div align="center">
+
 # 🐾 AR Learning Application
+
 ### Animal Life Cycle & Body Parts
 
-An Augmented Reality (AR) educational application designed to make children's learning more interactive through animal-themed content, scan-enabled videos, and a companion flipbook.
+**Making Early Childhood Learning Interactive Through Augmented Reality**
 
-![Project Type](https://img.shields.io/badge/Project-Diploma%20FYP-blue)
-![Platform](https://img.shields.io/badge/Platform-Android-green)
-![Technology](https://img.shields.io/badge/Technology-Augmented%20Reality-purple)
+An Android educational application combining AR experiences, animal learning content, and a companion flipbook.
 
----
+![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![AR](https://img.shields.io/badge/Technology-Augmented_Reality-7057FF?style=for-the-badge)
+![Education](https://img.shields.io/badge/Domain-Education-FFB020?style=for-the-badge)
 
-## 🚀 Explore the Project
-
-📱 **[Download Android Application (APK)](https://drive.google.com/file/d/10ZKWNgEmttqUlCc1PlKktJ9AhfciZiM1/view?usp=sharing)**
-
-📚 **[View Animal Flipbook (PDF)](https://drive.google.com/file/d/1KEG4MyOwj0m9K9x7IVAaDlvlRQz1ccnN/view?usp=sharing)**
-
-🖼️ **[View Application Screenshots & Demo Materials](https://drive.google.com/drive/folders/1Me1QPePEhNvZfaW8bKkckjON15Z-5pYz?usp=sharing)**
+</div>
 
 ---
 
-## ✨ Key Features
+## 🌟 Overview
 
-- **Augmented Reality Learning:** Scan images to access educational AR video content.
-- **Animal Life Cycles:** Explore animal-related learning materials.
-- **Interactive Education:** Support children's learning through visual content.
-- **Companion Flipbook:** Provide additional educational materials in PDF format.
+This project explores the use of **Augmented Reality (AR)** to create a more engaging learning experience for young children. By scanning selected images, learners can access educational AR video content about animals and their life cycles.
 
-## 👩‍💻 My Contributions
+## ✨ Features
 
-- Collaborated in a three-member team to develop an AR learning application and companion book for a TASKA client in Melaka.
+| 🦋 AR Learning | 📚 Educational Flipbook | 🎯 Interactive Content |
+|---|---|---|
+| Scan images to access AR video content. | Supports learning about animals. | Encourages visual exploration and engagement. |
+
+## 🛠️ My Contributions
+
 - Created scan-enabled AR video content for educational learning.
-- Contributed to the development of interactive learning materials.
+- Contributed to interactive educational materials.
+- Participated in developing the application and companion flipbook for a TASKA client in Melaka.
 
-## 📦 Project Deliverables
+## 🎬 Project Showcase
 
-| Deliverable | Access |
+Explore the application, educational materials, and available demonstrations below.
+
+<div align="center">
+
+| 📱 Android Application | 📖 Animal Flipbook |
 |---|---|
-| Android Application | [Download APK](https://drive.google.com/file/d/10ZKWNgEmttqUlCc1PlKktJ9AhfciZiM1/view?usp=sharing) |
-| Animal Flipbook | [View PDF](https://drive.google.com/file/d/1KEG4MyOwj0m9K9x7IVAaDlvlRQz1ccnN/view?usp=sharing) |
-| Screenshots & Demo Materials | [Open Google Drive Folder](https://drive.google.com/drive/folders/1Me1QPePEhNvZfaW8bKkckjON15Z-5pYz?usp=sharing) |
+| [**Download APK ↗**](https://drive.google.com/file/d/10ZKWNgEmttqUlCc1PlKktJ9AhfciZiM1/view?usp=sharing) | [**View Flipbook ↗**](https://drive.google.com/file/d/1KEG4MyOwj0m9K9x7IVAaDlvlRQz1ccnN/view?usp=sharing) |
 
-## 🎓 Project Information
+### 🖼️ Application Screenshots & Demo
 
-- **Project Type:** Diploma Final Year Project
-- **Team Size:** 3 members
-- **Target Audience:** Early childhood learners
-- **Client Context:** TASKA, Melaka
+[**Explore the Project Gallery ↗**](https://drive.google.com/drive/folders/1Me1QPePEhNvZfaW8bKkckjON15Z-5pYz?usp=sharing)
+
+</div>
 
 ---
 
-*An educational technology project combining augmented reality and visual learning.*
+## 📌 Project Details
+
+- **Project:** Diploma Final-Year Project
+- **Platform:** Android
+- **Technology:** Augmented Reality
+- **Domain:** Educational Technology
+- **Audience:** Early Childhood Learners
+
+---
+
+<div align="center">
+
+*An educational technology project focused on interactive and visual learning.*
+
+</div>
